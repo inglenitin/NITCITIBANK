@@ -10,7 +10,7 @@ public class Test {
 		System.out.println("Test class"); 
 		System.out.println("Test class ----abcd");
 		System.out.println("enhanced changes");
-		System.out.println("new feature");
+		System.out.println("new feature - ");
 
 	}
 }
